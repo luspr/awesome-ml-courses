@@ -1,4 +1,4 @@
-A curated list of awesome machine learning and artificial intelligence courses 
+A curated list of awesome, free machine learning and artificial intelligence courses 
 with video lectures.
 All courses are available as high-quality video lectures by some of the best
 AI researchers and teachers on this planet. 
@@ -13,6 +13,7 @@ No prior experience in ML and AI is needed. You should have some knowledge of
 linear algebra, introductory calculus and probability. 
 Some programming experience is also recommended.
 
+
 * [Machine Learning (Stanford CS229)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | [Course website](http://cs229.stanford.edu/syllabus-autumn2018.html)
 
     This modern classic of machine learning courses is a great starting point 
@@ -20,7 +21,8 @@ Some programming experience is also recommended.
     The course covers many widely used techniques, 
     The lecture notes are detailed and review necessary mathematical concepts.
 
-* [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Course website
+
+* [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | [Course website](https://cs231n.github.io/)
 
     A great way to start with deep learning. The course focuses on 
     convolutional neural networks and computer vision, but also 
@@ -38,26 +40,26 @@ Some programming experience is also recommended.
     AlphaGo and AlphaZero.    
 
 
-
-* [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | [Course website]()
+* [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | [Course website](http://web.stanford.edu/class/cs224n/)
 
     Modern NLP techniques from recurrent neural networks and word embeddings
     to transformers and self-attention. Covers applied topics like questions answering and 
     text generation.
 
+
 ## Advanced Lectures
 
-Advanced courses that require some prior knowledge in machine learning and AI. 
+Advanced courses that require prior knowledge in machine learning and AI. 
 
-* [Deep Unsupervised Learning (UC Berkeley CS294)](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) 
+* [Deep Unsupervised Learning (UC Berkeley CS294)](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) | [Course website](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
 * [Frontiers of Deep Learning (Simons Institute)](https://www.youtube.com/playlist?list=PLgKuh-lKre11ekU7g-Z_qsvjDD8cT-hi9) | [Course website](https://simons.berkeley.edu/workshops/dl2019-1)
 
 
-* [New Deep Learning Techniques](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN)
+* [New Deep Learning Techniques](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | [Course website](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=overview)
 
-* [Geometry of Deep Learning (Microsoft Research)](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | [Course Website](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
+* [Geometry of Deep Learning (Microsoft Research)](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | [Course website](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
 
 * [Deep Multi-Task and Meta Learning (Stanford CS330)](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | [Course Website](http://cs330.stanford.edu/)
 
