@@ -1,3 +1,5 @@
+# Awesome Machine Learning and AI Courses
+
 A curated list of awesome, free machine learning and artificial intelligence courses 
 with video lectures.
 All courses are available as high-quality video lectures by some of the best
