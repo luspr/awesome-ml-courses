@@ -68,3 +68,49 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Mathematics of Machine Learning Summer School 2019 (University of Washington)](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9) | [Course Website](http://mathofml.cs.washington.edu/)
 
 * [Probabilistic Graphical Models (Carneggie Mellon University)](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn) | [Course Website](https://sailinglab.github.io/pgm-spring-2019/)
+
+* [Probabilistic and Statistical Machine Learning 2020 (University of Tübingen)](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+
+* [Statistical Machine Learning 2020 (University of Tübingen)](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+* [Deep Learning (with PyTorch) 2020 (NYU)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+
+* [Mobile Sensing and Robotics 2019 (Bonn University)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)
+
+* [Sensors and State Estimation Course 2020 (Bonn University)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+
+* [Photogrammetry 2015 (Bonn University)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
+
+* [Applied Machine Learning 2020 (Columbia)](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
+* [Advanced Deep Learning & Reinforcement Learning 2020 (DeepMind / UCL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+* [Data-Driven Dynamical Systems with Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
+
+* [Data-Driven Control with Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
+
+* [Machine Learning 2020 (Vrije Universiteit Amsterdam)](https://www.youtube.com/playlist?list=PLCof9EqayQgthR7IViXkAkUwel_rhxGYM)
+
+* [ECE AI Seminar Series 2020 (NYU)](https://www.youtube.com/playlist?list=PLhwo5ntex8iY9xhpSwWas451NgVuqBE7U)
+
+* [CS287 Advanced Robotics at UC Berkeley Fall 2019](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
+
+* [2019 Mathematics of Machine Learning Summer School (U of Washington)](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
+
+* [CORNELL CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
+* [CSEP 546 - Machine Learning (AU 2019) (U of Washington)](https://www.youtube.com/playlist?list=PLTPQEx-31JXj87XLsYutYGKw6K9dNaD36)
+
+* [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+* [Stanford Convex Optimization](https://www.youtube.com/playlist?list=PLdrixi40lpQm5ksInXlRon1eRwq_gzIcw)
+
+* [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+
+* [Full Stack Deep Learning 2019](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcf3Hc4VMEVBlH8HZm_NbeB)
+
+* [Emerging Challenges in Deep Learning](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd)
+
+* [Deep|Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
+
+* [CMU Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
