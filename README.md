@@ -111,3 +111,11 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Deep|Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
 
 * [CMU Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
+
+* [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
+
+* [Workshop on Theory of Deep Learning: Where next (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5dqqg_S-rgJqSFeH4DQqFQ)
+
+* [Deep Learning: Alchemy or Science? (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
+
+* [Theoretical Machine Learning Lecture Series (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
