@@ -120,4 +120,4 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 * [Theoretical Machine Learning Lecture Series (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
 
-* [Mathematics of Big Data and Machine Learning (MIT) (https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
+* [Mathematics of Big Data and Machine Learning (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
