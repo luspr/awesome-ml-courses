@@ -49,7 +49,7 @@ Some programming experience is also recommended.
     AlphaGo and AlphaZero.    
 
 
-* [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | [Course website](http://web.stanford.edu/class/cs224n/)
+* [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | [Course website](http://web.stanford.edu/class/cs224n/)
 
     Modern NLP techniques from recurrent neural networks and word embeddings
     to transformers and self-attention. Covers applied topics like questions answering and 
