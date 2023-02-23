@@ -125,3 +125,5 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Theoretical Machine Learning Lecture Series (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
 
 * [Mathematics of Big Data and Machine Learning (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
+
+* [Introduction to Data-Centric AI (MIT)](https://dcai.csail.mit.edu/) | [Lecture videos](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5) | [Lab assignments](https://github.com/dcai-course/dcai-lab)
