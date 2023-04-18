@@ -74,7 +74,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 * [Geometry of Deep Learning (Microsoft Research)](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | [Course website](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
 
-* [Deep Multi-Task and Meta Learning (Stanford CS330)](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | [Course Website](http://cs330.stanford.edu/)
+* [Deep Multi-Task and Meta Learning (Stanford CS330) Autumn 2022](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) | [Course Website](http://cs330.stanford.edu/)
 
 * [Mathematics of Machine Learning Summer School 2019 (University of Washington)](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9) | [Course Website](http://mathofml.cs.washington.edu/)
 
