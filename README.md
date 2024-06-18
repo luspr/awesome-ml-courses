@@ -55,7 +55,7 @@ Some programming experience is also recommended.
     to transformers and self-attention. Covers applied topics like questions answering and 
     text generation.
     
-* [Deep Learning - NYU - 2000](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [Course website](https://atcold.github.io/pytorch-Deep-Learning/)
+* [Deep Learning - NYU - 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [Course website](https://atcold.github.io/pytorch-Deep-Learning/)
 
     This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. 
 
