@@ -57,9 +57,14 @@ Some programming experience is also recommended.
     
 * [Deep Learning - NYU - 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [Course website](https://atcold.github.io/pytorch-Deep-Learning/)
 
-    This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. 
+    This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 
+* [Machine Learning with Graphs (Stanford CS224W)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | [Course website](https://web.stanford.edu/class/cs224w/)
+  
+  Comprehensive overview of machine learning techniques applied to graph-structured data. Topics include node embeddings, graph neural networks (GNNs), heterogeneous graphs, knowledge graphs, and their applications.
+  The course also covers advanced topics like neural subgraph matching, graph transformers, and scaling GNNs to large graphs.
 
+  
 ## Advanced Lectures
 
 Advanced courses that require prior knowledge in machine learning and AI. 
